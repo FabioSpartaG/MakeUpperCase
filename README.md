@@ -1,7 +1,9 @@
 # MakeUpperCase
 
 This repository contains a simple java file that will take any string and turn it into an uppercased version.
-To test it with different strings, simply change the string in the main method and run the program.
+
+# How to test
+To test it with different strings, simply change the string inside the method call in the main method and run the program.
 
 # Example input
 
